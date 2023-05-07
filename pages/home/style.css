@@ -11,5 +11,14 @@ div {
    font-size: 20px;
 }
 button {
-    color: blueviolet;
+    color: white;
+    background-color: #220769;
+    text-decoration: none;
 }
+
+a {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
