@@ -11,5 +11,19 @@ div {
    font-size: 20px;
 }
 button {
-    color: blueviolet;
-}
+    background-color: #4CAF50; /* define a cor de fundo do botão */
+    border: none; /* remove a borda padrão do botão */
+    color: white; /* define a cor do texto do botão */
+    padding: 10px 20px; /* define o preenchimento interno do botão */
+    text-align: center; /* centraliza o texto dentro do botão */
+    text-decoration: none; /* remove o sublinhado do texto */
+    display: inline-block; /* torna o botão um elemento em bloco */
+    font-size: 16px; /* define o tamanho da fonte do texto */
+    border-radius: 8px; /* define o raio dos cantos do botão */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3); /* adiciona uma sombra ao botão */
+  }
+  
+  /* define o estilo do botão quando o cursor do mouse está em cima dele */
+  button:hover {
+    background-color: #3e8e41;
+  }
