@@ -1,0 +1,15 @@
+body {
+    color: black ;
+    background-color: rgb(207, 207, 37);
+    text-align: center;
+}
+h1 {
+    color: blueviolet ;
+    font-size: 50px;
+}
+div { 
+   font-size: 20px;
+}
+button {
+    color: blueviolet;
+}
